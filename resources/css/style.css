@@ -1,0 +1,30 @@
+
+html{
+  background-color: black;
+  text-align: center;
+}
+h1{
+    color:white;
+    font-size: 50px;
+    font-family: Verdana;
+}
+.Download{
+  color:Aquamarine;
+  font-size: 16px;
+}
+.Travel{
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+}
+p{
+  color:white;
+}
+.Text{
+  color: gray !important;
+  font-size: 21px;
+}
+.Copy{
+  text-align: right;
+  color:gray;
+}
